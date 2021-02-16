@@ -1,0 +1,11 @@
+name: Gems
+version: ${project.version}
+main: com.outlast.gems.main.Gems
+api-version: 1.16
+authors: [ akosG, Maxwell ]
+description: Outlast Gems Economy
+commands:
+  gems:
+    aliases: [gem]
+  gemshop:
+    aliases: [gs]
